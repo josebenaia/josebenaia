@@ -5,8 +5,8 @@
 ### Olá sou josé Benaia 👋
 
 
-- 💖 Desenvolvedor Full-Stack
-- 🌱  E atualmente estou focado em melhorar minhas habilidades de Programação.
+- 💖 Cursando Desenvolvedor Full-Stack
+- 🌱 E atualmente estou focado em melhorar minhas habilidades de Programação.
 - 🔭 Mas estou sempre aberto para descobrir coisas novas
 - 📫 Você pode entrar em contato comigo no[Gmail](https://josebenaia28@gmail.com/#contact)
 - 📚 Cursando: Desenvolvedor Full-Stack.
